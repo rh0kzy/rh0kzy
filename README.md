@@ -117,7 +117,7 @@ Currently working on exciting new projects in:
 - 🌐 Web3 Technologies
 - 📱 Mobile Applications
 
-[![Profile](https://img.shields.io/badge/View-All%20Projects-blueviolet?style=for-the-badge&logo=github)](https://github.com/AymenBelkadi?tab=repositories)
+[![Profile](https://img.shields.io/badge/View-All%20Projects-blueviolet?style=for-the-badge&logo=github)](https://github.com/rh0kzy?tab=repositories)
 
 </td>
 </tr>
@@ -130,16 +130,16 @@ Currently working on exciting new projects in:
 ## 📊 GitHub Analytics
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AymenBelkadi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a177f7&icon_color=a177f7&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymenBelkadi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a177f7&text_color=c9d1d9&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rh0kzy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a177f7&icon_color=a177f7&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rh0kzy&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a177f7&text_color=c9d1d9&langs_count=8"/>
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymenBelkadi&theme=radical&hide_border=true&background=0d1117&stroke=a177f7&ring=a177f7&fire=a177f7&currStreakLabel=a177f7" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rh0kzy&theme=radical&hide_border=true&background=0d1117&stroke=a177f7&ring=a177f7&fire=a177f7&currStreakLabel=a177f7" alt="GitHub Streak" />
 </p>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AymenBelkadi&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=a177f7&line=a177f7&point=ffffff" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rh0kzy&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=a177f7&line=a177f7&point=ffffff" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -159,7 +159,7 @@ Currently working on exciting new projects in:
   <a href="mailto:aymenbelkadi1012005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/AymenBelkadi" target="_blank">
+  <a href="https://github.com/rh0kzy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -200,7 +200,7 @@ Currently working on exciting new projects in:
 
 ### 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=AymenBelkadi&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rh0kzy&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 ### ⭐ Show Some Love!
 
