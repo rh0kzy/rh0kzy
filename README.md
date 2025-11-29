@@ -20,7 +20,6 @@
 const aymen = {
     title: "3rd Year Computer Engineering Student",
     specialization: "Artificial Intelligence",
-    location: "Aïn Benian, Algiers 🇩🇿",
     passions: ["AI Development", "Full-Stack Engineering", "Innovation"],
     currentFocus: "Building scalable applications with modern tech",
     philosophy: "Innovation is born at the intersection of curiosity and discipline"
