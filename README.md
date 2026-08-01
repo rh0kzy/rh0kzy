@@ -1,33 +1,93 @@
-# Hi 👋, I'm Aymen Belkadi
+<h1 align="center">Hi, I'm Aymen 👋</h1>
 
-### Full-Stack Developer · AI Engineering Student
+<h3 align="center">Full-Stack Developer · AI Engineering Student · Co-Founder @ Massar Agency</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rh0kzy&label=Profile views&color=0e75b6&style=flat" alt="rh0kzy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rh0kzy" alt="rh0kzy" /></a> </p>
-
-- 🔭 I'm currently working on **PhoneMAG DEMO Software**
-
-- 🌱 I'm currently learning **Spring Boot**
-
-- 📫 How to reach me **contact.aymenbelkadi@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://aymenbelkadiptfl.netlify.app/](https://aymenbelkadiptfl.netlify.app/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1odkJA70zpg8OPkRcWaHIUNWx_6LpBsbn/view?usp=sharing](https://drive.google.com/file/d/1odkJA70zpg8OPkRcWaHIUNWx_6LpBsbn/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/rh0kzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rh0kzy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aymen-belkadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aymen-belkadi" height="30" width="40" /></a>
-<a href="https://kaggle.com/aymenbelkadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aymenbelkadi" height="30" width="40" /></a>
-<a href="https://twitter.com/rh0kzy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rh0kzy" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+digital+products+for+Algerian+SMBs;React+%2F+Next.js+%2B+Django+%2F+FastAPI;AI+Engineering+%40+USTHB;Turning+ideas+into+shipped+software" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rh0kzy&label=Profile%20views&color=0e75b6&style=flat" alt="rh0kzy profile views" />
+  <a href="https://twitter.com/rh0kzy"><img src="https://img.shields.io/twitter/follow/rh0kzy?style=flat&logo=x&color=0e75b6" alt="X follow" /></a>
+  <a href="https://linkedin.com/in/aymenbelkadi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rh0kzy&show_icons=true&locale=en&layout=compact" alt="rh0kzy" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rh0kzy&show_icons=true&locale=en" alt="rh0kzy" /></p>
+### 👤 About Me
 
+I'm a co-founder and full-stack developer at **Massar Agency**, a digital agency in Algiers building web apps, mobile apps, and brand identities for Algerian SMBs. In parallel, I'm a 3rd-year Computer Engineering student at **USTHB**, specializing in AI Engineering.
+
+- 🔭 Currently building **PhoneMAG** (desktop POS for phone retail) and **EdenStore** (offline-first perfume shop management)
+- 🌱 Deepening my skills in **agentic AI workflows** and **local/cloud LLM integration**
+- 🎯 Focused on adapting proven international SaaS products for the Algerian market
+- 📫 Reach me at **aymenbelkadi1012005@gmail.com**
+- 🌐 Portfolio: **[aymen-belkadi.vercel.app](https://aymen-belkadi.vercel.app)**
+- ⚡ Fun fact: my cat Meat Nu supervises most of my debugging sessions
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,js,tailwind,html,css,vue" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=react,flutter" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,nestjs,laravel,java,spring" />
+
+**Data & AI**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" /> <img src="https://cdn.simpleicons.org/huggingface" width="40" height="40"/> <img src="https://cdn.simpleicons.org/ollama" width="40" height="40"/>
+
+**Databases & Infra**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,supabase,electron,docker,git,linux" />
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[PhoneMAG](https://github.com/rh0kzy)** | Desktop POS system for phone retail with auto-update CI/CD | Electron · React · Django |
+| **[EdenStore](https://github.com/rh0kzy)** | Offline-first perfume shop management app with cloud sync | Electron · SQLite · Supabase |
+| **[VintageDrop](https://github.com/rh0kzy)** | Vintage clothes e-commerce with drop-culture mechanics | Next.js · Django · Supabase |
+| **[HireAI](https://github.com/rh0kzy)** | AI recruitment platform with CV parsing & video interviews | Next.js · Supabase · LLMs |
+| **[Sovereign-Vision](https://github.com/rh0kzy)** | YOLOv8s object detection pipeline for arid environments | Python · PyTorch · YOLOv8 |
+
+> Update the links above once repos are public — happy to also add live demo badges if you want.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rh0kzy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="rh0kzy stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rh0kzy&layout=compact&theme=tokyonight&hide_border=true" alt="rh0kzy top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rh0kzy&theme=tokyonight&hide_border=true" alt="rh0kzy streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rh0kzy&theme=tokyonight&no-frame=true&row=1&column=6" alt="rh0kzy trophies" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://twitter.com/rh0kzy" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X" /></a>
+  <a href="https://linkedin.com/in/aymenbelkadi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://aymen-belkadi.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" /></a>
+</p>
+
+<p align="center"><i>⚡ CR Belouizdad supporter · Building for the Algerian tech scene, one project at a time</i></p>
