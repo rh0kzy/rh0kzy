@@ -21,7 +21,7 @@ I'm a co-founder and full-stack developer at **Massar Agency**, a digital agency
 - 🔭 Currently building **PhoneMAG** (desktop POS for phone retail) and **EdenStore** (offline-first perfume shop management)
 - 🌱 Deepening my skills in **agentic AI workflows** and **local/cloud LLM integration**
 - 🎯 Focused on adapting proven international SaaS products for the Algerian market
-- 📫 Reach me at **aymenbelkadi1012005@gmail.com**
+- 📫 Reach me at **contact.aymenbelkadi@gmail.com**
 - 🌐 Portfolio: **[aymen-belkadi.vercel.app](https://aymen-belkadi.vercel.app)**
 - ⚡ Fun fact: my cat Meat Nu supervises most of my debugging sessions
 
