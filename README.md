@@ -1,16 +1,41 @@
-<h1 align="center">Hi, I'm Aymen 👋</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack Developer · AI Engineering Student · Co-Founder @ Massar Agency</h3>
+<h3><code>rh0kzy@github ~ $ ./contributions.sh</code></h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Building+digital+products+for+Algerian+SMBs;React+%2F+Next.js+%2B+Django+%2F+FastAPI;AI+Engineering+%40+USTHB;Turning+ideas+into+shipped+software" alt="Typing SVG" />
-</p>
+<img src="./contrib-heatmap.svg" width="860" alt="rh0kzy's GitHub contribution graph — auto-refreshed daily" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rh0kzy&label=Profile%20views&color=0e75b6&style=flat" alt="rh0kzy profile views" />
-  <a href="https://twitter.com/rh0kzy"><img src="https://img.shields.io/twitter/follow/rh0kzy?style=flat&logo=x&color=0e75b6" alt="X follow" /></a>
-  <a href="https://linkedin.com/in/aymenbelkadi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<br>
+<br>
+
+<!-- portrait: placeholder until a photo is provided.
+     To unlock the true ASCII portrait:
+       python scripts/prep_photo.py <photo.jpg>
+       python scripts/make_ascii_svg.py
+     info card: python scripts/make_info_card.py -->
+
+<h3><code>rh0kzy@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./rh0kzy-ascii.svg" width="370" alt="rh0kzy — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="rh0kzy — neofetch info card" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<h3><code>rh0kzy@github ~ $ ./links.sh</code></h3>
+
+<p><b>Full-Stack Developer · AI Engineering Student · Co-Founder @ Massar Agency</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-aymen--belkadi.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://aymen-belkadi.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aymenbelkadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aymenbelkadi)
+[![X](https://img.shields.io/badge/X-rh0kzy-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rh0kzy)
+
+<br>
+
+</div>
 
 ---
 
@@ -55,30 +80,11 @@ I'm a co-founder and full-stack developer at **Massar Agency**, a digital agency
 
 | Project | Description | Stack |
 |---|---|---|
-| **[PhoneMAG](https://github.com/rh0kzy)** | Desktop POS system for phone retail with auto-update CI/CD | Electron · React · Django |
-| **[EdenStore](https://github.com/rh0kzy)** | Offline-first perfume shop management app with cloud sync | Electron · SQLite · Supabase |
-| **[VintageDrop](https://github.com/rh0kzy)** | Vintage clothes e-commerce with drop-culture mechanics | Next.js · Django · Supabase |
-| **[HireAI](https://github.com/rh0kzy)** | AI recruitment platform with CV parsing & video interviews | Next.js · Supabase · LLMs |
-| **[Sovereign-Vision](https://github.com/rh0kzy)** | YOLOv8s object detection pipeline for arid environments | Python · PyTorch · YOLOv8 |
-
-> Update the links above once repos are public — happy to also add live demo badges if you want.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rh0kzy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="rh0kzy stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rh0kzy&layout=compact&theme=tokyonight&hide_border=true" alt="rh0kzy top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rh0kzy&theme=tokyonight&hide_border=true" alt="rh0kzy streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rh0kzy&theme=tokyonight&no-frame=true&row=1&column=6" alt="rh0kzy trophies" />
-</p>
+| **PhoneMAG** | Desktop POS system for phone retail with auto-update CI/CD | Electron · React · Django |
+| **EdenStore** | Offline-first perfume shop management app with cloud sync | Electron · SQLite · Supabase |
+| **VintageDrop** | Vintage clothes e-commerce with drop-culture mechanics | Next.js · Django · Supabase |
+| **HireAI** | AI recruitment platform with CV parsing & video interviews | Next.js · Supabase · LLMs |
+| **Sovereign-Vision** | YOLOv8s object detection pipeline for arid environments | Python · PyTorch · YOLOv8 |
 
 ---
 
@@ -91,3 +97,7 @@ I'm a co-founder and full-stack developer at **Massar Agency**, a digital agency
 </p>
 
 <p align="center"><i>⚡ CR Belouizdad supporter · Building for the Algerian tech scene, one project at a time</i></p>
+
+---
+
+<sub>Profile art is self-generated SVG (no stats services, no token) — see <code>scripts/</code> + <code>.github/workflows/update-profile-art.yml</code>. Heatmap refreshes daily.</sub>
