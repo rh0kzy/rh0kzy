@@ -92,7 +92,7 @@ I'm a co-founder and full-stack developer at **Massar Agency**, a digital agency
 
 <p align="center">
   <a href="https://twitter.com/rh0kzy" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X" /></a>
-  <a href="https://linkedin.com/in/aymenbelkadi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/aymen-belkadi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
   <a href="https://aymen-belkadi.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" /></a>
 </p>
 
